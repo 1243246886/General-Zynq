@@ -1,4 +1,4 @@
-# For linux_user
+# For linux user
 实验环境：vivado2014.4</br>
 开发板系统：linaro（其他linux也可以)</br>
 linaro下载地址：<code>http://pan.baidu.com/s/1dDrs4bJ</code></br>
