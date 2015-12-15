@@ -2,8 +2,8 @@
 实验环境：vivado2014.4</br>
 
 <h3>在VIVADO下搭建硬件工程</h3></br>
-打开vivado2014.4在tcl窗口下输入以下命令</br>
-<code>cd “<your path>”/hardware_prj</code></br>
+打开vivado2014.4在tcl窗口下输入以下命令:</br>
+<code>cd “your path”/hardware_prj</code></br>
 <code>source ./system_pro.tcl</code></br>
 等待bit生成完毕</br>
 <h5>至此，硬件工程搭建完毕！</h5></br>
