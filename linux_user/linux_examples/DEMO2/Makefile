@@ -7,8 +7,8 @@ LIB=
 CC=gcc
 CC_FLAG=-Wall 
 
-PRG=demo1
-OBJ=demo1.o ../xlib/xil_io.o ../xlib/xil_pwm.o ../xlib/xil_gpio.o
+PRG=demo2
+OBJ=demo2.o ../xlib/xil_io.o ../xlib/xil_pwm.o ../xlib/xil_gpio.o
 
 $(PRG):$(OBJ)
 	$(CC)  -o $@ $(OBJ) $(INC) $(LIB)
